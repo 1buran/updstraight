@@ -1,4 +1,4 @@
-module updemacs
+module github.com/1buran/updstraight
 
 go 1.23.0
 
